@@ -41,7 +41,7 @@ A comprehensive web application for detecting, reporting, and managing speed bre
 
 1. Clone the repository
 ```bash
-git clone https://github.com/ayansaiyad5/Road-Safety.git
+git clone https://github.com/.............
 cd Road-Safety
 ```
 
